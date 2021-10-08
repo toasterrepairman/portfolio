@@ -11,13 +11,16 @@ my personal Arch Linux bootstrapping script. no support is offered, though it is
 
 ## qlip
 [Linux] [MacOS] [Windows] [Rust] [Utility]
+
 [ISO/IEC 18004](https://www.iso.org/standard/62021.html)-based program to dump the system clipboard into an ASCII QR code. uses Mozilla's clipboard provider as a backend to ensure cross-platform compatibility. 
 
 ## sockies
 [Linux] [Backend] [Bootstrapping]
+
 a highly experimental testbed for orchestrating and bootstrapping podman containers without podman-compose.
 
 ## rust64
 [Linux] [MacOS] [Utility] [Rust]
+
 base64 encoding utility with fun colors (non-functional with recent Rust toolchains)
 
