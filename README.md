@@ -7,6 +7,7 @@ hey! if you're new to my github account, this is a pretty good place to see the 
 
 ## boostrap
 [Linux] [Script] [Bootstrapping]
+
 my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
 
 ## qlip
