@@ -15,7 +15,7 @@ hey! if you're new to my github account, this is a pretty good place to see the 
 
 a highly experimental testbed for orchestrating and bootstrapping podman containers without podman-compose.
 
-## rust64
+## rs64
 [Linux] [MacOS] [Utility] [Rust]
 
 base64 encoding utility with fun colors (non-functional with recent Rust toolchains)
