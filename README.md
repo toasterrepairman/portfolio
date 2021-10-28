@@ -5,11 +5,6 @@ hey! if you're new to my github account, this is a pretty good place to see the 
 
 ---
 
-## boostrap
-[Linux] [Script] [Bootstrapping]
-
-my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
-
 ## qlip
 [Linux] [MacOS] [Windows] [Rust] [Utility]
 
@@ -25,3 +20,7 @@ a highly experimental testbed for orchestrating and bootstrapping podman contain
 
 base64 encoding utility with fun colors (non-functional with recent Rust toolchains)
 
+## boostrap
+[Linux] [Script] [Bootstrapping]
+
+my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
