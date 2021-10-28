@@ -5,31 +5,31 @@ hey! if you're new to my github account, this is a pretty good place to see the 
 
 ---
 
-## qlip
+## [qlip](https://github.com/toasterrepairman/qlip)
 ![qlip](resources/qlip.png)
 
 [Linux] [MacOS] [Windows] [Rust] [Utility]
 
 [ISO/IEC 18004](https://www.iso.org/standard/62021.html)-based program to dump the system clipboard into an ASCII QR code. uses Mozilla's clipboard provider as a backend to ensure cross-platform compatibility. 
 
-## rgtube
+## [rgtube](https://github.com/toasterrepairman/rgtube)
 ![rgtube](resources/rgtube.gif)
 
-## rs64
+## [rs64](https://github.com/toasterrepairman/rs64)
 ![rs64](resources/rs64.gif)
 
 [Linux] [MacOS] [Utility] [Rust]
 
 base64 encoding utility with fun colors (non-functional with recent Rust toolchains)
 
-## boostrap
+## [boostrap](https://github.com/toasterrepairman/boostrap)
 ![boostrap](resources/boostrap.png)
 
 [Linux] [Script] [Bootstrapping]
 
 my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
 
-## sockies
+## [sockies](https://github.com/toasterrepairman/sockies)
 [Linux] [Backend] [Bootstrapping]
 
 a highly experimental testbed for orchestrating and bootstrapping podman containers without podman-compose.
