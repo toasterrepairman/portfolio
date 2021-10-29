@@ -15,12 +15,16 @@ hey! if you're new to my github account, this is a pretty good place to see the 
 ## [rgtube](https://github.com/toasterrepairman/rgtube)
 ![rgtube](resources/rgtube.gif)
 
+[Linux] [Rust] [Utility] [GTK3]
+
+a simple, native youtube-dl GUI written with GTK3.
+
 ## [rs64](https://github.com/toasterrepairman/rs64)
 ![rs64](resources/rs64.gif)
 
 [Linux] [MacOS] [Utility] [Rust]
 
-base64 encoding utility with fun colors (non-functional with recent Rust toolchains)
+base64 encoding utility with fun colors (non-functional with recent Rust toolchains).
 
 ## [boostrap](https://github.com/toasterrepairman/boostrap)
 ![boostrap](resources/boostrap.png)
@@ -30,6 +34,6 @@ base64 encoding utility with fun colors (non-functional with recent Rust toolcha
 my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
 
 ## [sockies](https://github.com/toasterrepairman/sockies)
-[Linux] [Backend] [Bootstrapping]
+[Linux] [Backend] [Bootstrapping] [Script]
 
 a highly experimental testbed for orchestrating and bootstrapping podman containers without podman-compose.
