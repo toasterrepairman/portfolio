@@ -1,4 +1,5 @@
 # portfolio
+![I do digital art, too!](resources/noise.gif)
 ## a sampling of programs I've made 
 
 hey! if you're new to my github account, this is a pretty good place to see the sort of stuff I work on. I'll do my best to organize everything and provide screenshots where possible, but don't hesitate to open an issue if you'd like additional details or would like to get in touch.
