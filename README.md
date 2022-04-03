@@ -38,6 +38,14 @@ base64 encoding utility with fun colors (non-functional with recent Rust toolcha
 my personal Arch Linux bootstrapping script. no support is offered, though it is constantly maintained and updated. it's not recommended to run this unless you know what you're doing.
 
 ## [sockies](https://github.com/toasterrepairman/sockies)
+
 [Linux] [Backend] [Bootstrapping] [Script]
 
 a highly experimental testbed for orchestrating and bootstrapping podman containers without podman-compose.
+
+## [catboy](https://github.com/toasterrepairman/catboy)
+![catboy](resources/catboy.gif)
+
+[Linux] [Frontend] [Utility] [Rust] [GTK3]
+
+a text buffer editor with a great name and a handful of useful features.
