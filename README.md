@@ -5,19 +5,17 @@
 
 ## a sampling of programs I've made 
 
-Hey! If you're new to my github account, this is a pretty good place to see the sort of stuff I work on. I'll do my best to organize everything and provide screenshots where possible, but don't hesitate to open an issue if you'd like additional details or would like to get in touch.
+Welcome to my Github account! This is a pretty good place to check-in on the stuff I'm working on. I periodically update this page with samples of my work, so there is a good blend of new and old here. Generally it's only finished stuff, or at least software that's at-minimum viable.
 
 ---
 
-## [boostrap](https://github.com/toasterrepairman/boostrap)
-![boostrap](resources/boostrap.png)
+## [groucho](https://github.com/toasterrepairman/groucho)
+![grimace](resources/Groucho.png)
 
-[Linux] [Script] [Bootstrapping]
-
-A big collection of dotfiles. Mostly for NixOS, with various outdated scripts for Arch and MacOS
+Stable Diffusion interface with support for multiple versions.
 
 ## [grimace](https://github.com/toasterrepairman/grimace)
-![grimace](https://github.com/toasterrepairman/grimace/blob/master/resources/grimace.png)
+![grimace](resources/Grimace.png)
 
 Speech-to-text GUI featuring OpenAI's Whisper model.
 
