@@ -1,7 +1,9 @@
-# frontend portfolio
+# programming portfolio
 ![Shader designed in Blender](resources/lineart.gif)
 
 ---
+
+# frontend work
 
 ## [groucho](https://github.com/toasterrepairman/groucho)
 ![grimace](resources/Groucho.png)
