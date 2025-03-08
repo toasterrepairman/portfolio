@@ -18,7 +18,7 @@ Speech-to-text GUI featuring OpenAI's Whisper model.
 ## [dipstick](https://github.com/toasterrepairman/dipstick)
 ![dipstick](resources/dipstick.png)
 
-A simple, native youtube-dl GUI written with GTK3.
+A generation viewer for NixOS system versions.
 
 # backend work
 
