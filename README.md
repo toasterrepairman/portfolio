@@ -5,6 +5,11 @@
 
 # frontend work
 
+## [Admiral](https://github.com/toasterrepairman/admiral)
+![Admiral](resources/Admiral.png)
+
+Twitch chat reader with a quality-of-life focus.
+
 ## [groucho](https://github.com/toasterrepairman/groucho)
 ![grimace](resources/Groucho.png)
 
